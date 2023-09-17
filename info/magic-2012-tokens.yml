@@ -1,0 +1,16 @@
+---
+object: set
+id: 56ca128d-320c-430f-b083-1950f80aa11f
+code: tm12
+name: Magic 2012 Tokens
+uri: https://api.scryfall.com/sets/56ca128d-320c-430f-b083-1950f80aa11f
+scryfall_uri: https://scryfall.com/sets/tm12
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atm12&unique=prints
+released_at: '2011-07-15'
+set_type: token
+card_count: 7
+parent_set_code: m12
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/m12.svg?1694404800
